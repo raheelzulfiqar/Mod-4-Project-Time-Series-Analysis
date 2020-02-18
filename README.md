@@ -13,3 +13,7 @@ This may seem like a simple question at first glance, but there's more than a li
 ## GOAL
 
 The goal of this project is to  complete a very common real-world task in regard to Time-Series Modeling. However, real world problems often come with a significant degree of ambiguity, which requires  knowledge of statistics and data science to think critically about and answer. While the main task in this project is Time-Series Modeling, that isn't the overall goal--it is important to understand that Time-Series Modeling is a tool in our toolbox, and the forecasts it provides us are what we'll use to answer important questions.
+
+## Modeling
+
+I used SARIMAX model to predict the house prices in the top 5 zipcodes for two years in future.
